@@ -2,6 +2,10 @@
 ![image](https://github.com/user-attachments/assets/aaa2007c-ca85-48c6-811c-57e3da8a8b53)
 A React-based frontend application that integrates with the state of art DeepSeek-r1:8b model via a custom Node.js server. This project allows users to interact with the DeepSeek-r1:8b model through a search bar interface, providing seamless integration of AI capabilities in a user-friendly way.
 
+
+https://github.com/user-attachments/assets/c6b9aa69-3489-4101-bfee-a3dabffe2e49
+
+
 #Key Takeaways/objective
 The DeepSeek-r1:8b  Search Application runs flawlessly on a standard laptop, showcasing the power of cutting-edge AI without the need for high-end hardware. With its efficient architecture, it delivers swift, accurate responses locally, rivaling advanced systems—all from the convenience of your personal device.
 
